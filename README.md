@@ -22,16 +22,15 @@ A python project for a universal language translator you can build with Google t
 This project aims to create a personalized and conversational AI voice assistant, using GPT and Whisper. [Link to code](https://github.com/Anirudh3654/chatbot_OPENAI)
 - GPT for natural language processing; Whisper for text-to-speech synthesis; Python for integration.
 
-### Sentiment Analysis(NLP, Naive Bayes):
-[Link to code](https://github.com/Anirudh3654/Projects-Data-Science)
+### Sentiment Analysis(NLP, Naive Bayes, Count Vectorization):
+Performed sentiment analysis on Amazons comments dataset on different products. [Link to code](https://github.com/Anirudh3654/Projects-Data-Science)
 - Performed Exploratory Data Analysis
 - Performed Data Cleaning
 - Performed Count Vectorization (Tokenization)
 - Successfully Trained Naive Bayes Classifier
 
-### Anime Web App:
-[Link to code](https://github.com/Anirudh3654/animesite)
-- Developed a full flask application frontend to backend to store users' anime preferences.
+### Anime Web App(AWS, Flask, Python, Docker):
+Developed a full flask application frontend to backend to store users' anime preferences. [Link to code](https://github.com/Anirudh3654/animesite)
 - Added admin login for insights of the users on the app.
 - Migrated the whole app infrastructure to AWS successfully.
 - Used Ansible to access the app servers through a single server.
