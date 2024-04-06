@@ -6,7 +6,7 @@
 - B.E., Computer Science | Chitkara University (2019 - 2023) | CGPA - 9.6		
 
 ## Work Experience
-****Juspay Technologies Pvt Ltd - Data Analyst(2022 - Present):****
+***Juspay Technologies Pvt Ltd - Data Analyst(2022 - Present):***
 -  **Automated Reporting Systems(R, Python, Jenkins, Git, Docker):** Developed and implemented automated, customized reports using Python, R, and SQL, tailored to diverse merchant needs. Reduced manual effort by 70% and improved report accuracy, providing valuable data for strategic decision-making.
 - **Analytical Tool Development(R, Python, Jenkins, Git, Docker):** Spearheaded the development of critical analytical tools, such as the New Orders Analysis Tool and PP Not Loaded Analysis, essential for cross-functional teams. Contributed to a 60% increase in operational efficiency by creating tools like Customer Retry Analysis, optimizing workflow and enhancing data-driven decision-making capabilities.
 - **Payment Success Enhancement Analysis(Sql, Excel, Data Visualization, Data Analysis):** Led an extensive analysis project focused on merchant payment success rates using SQL and Excel. Identified areas for improvement within the payment ecosystem, providing strategic recommendations that contributed to a 30% improvement in transaction success rates and mitigated revenue loss.
